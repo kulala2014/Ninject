@@ -1,0 +1,6 @@
+D:\Learning\Ninject\UnUserNinject\UnUserNinject\bin\Debug\UnUserNinject.exe.config
+D:\Learning\Ninject\UnUserNinject\UnUserNinject\bin\Debug\UnUserNinject.exe
+D:\Learning\Ninject\UnUserNinject\UnUserNinject\bin\Debug\UnUserNinject.pdb
+D:\Learning\Ninject\UnUserNinject\UnUserNinject\obj\Debug\UnUserNinject.csprojResolveAssemblyReference.cache
+D:\Learning\Ninject\UnUserNinject\UnUserNinject\obj\Debug\UnUserNinject.exe
+D:\Learning\Ninject\UnUserNinject\UnUserNinject\obj\Debug\UnUserNinject.pdb

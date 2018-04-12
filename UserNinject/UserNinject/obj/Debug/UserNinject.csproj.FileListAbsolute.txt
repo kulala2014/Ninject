@@ -1,0 +1,10 @@
+D:\Learning\Ninject\UserNinject\UserNinject\obj\Debug\UserNinject.csprojResolveAssemblyReference.cache
+D:\Learning\Ninject\UserNinject\UserNinject\bin\Debug\UserNinject.exe.config
+D:\Learning\Ninject\UserNinject\UserNinject\bin\Debug\UserNinject.exe
+D:\Learning\Ninject\UserNinject\UserNinject\bin\Debug\UserNinject.pdb
+D:\Learning\Ninject\UserNinject\UserNinject\bin\Debug\Ninject.dll
+D:\Learning\Ninject\UserNinject\UserNinject\bin\Debug\Ninject.xml
+D:\Learning\Ninject\UserNinject\UserNinject\obj\Debug\UserNinject.exe
+D:\Learning\Ninject\UserNinject\UserNinject\obj\Debug\UserNinject.pdb
+D:\Learning\Ninject\UserNinject\UserNinject\bin\Debug\Autofac.dll
+D:\Learning\Ninject\UserNinject\UserNinject\bin\Debug\Autofac.xml
